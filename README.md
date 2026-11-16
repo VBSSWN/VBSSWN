@@ -2,16 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0047ab,100:00d9ff&height=220&section=header&text=V1N1&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dev%200%25%20s%C3%A9rio%20%E2%80%A2%20100%25%20curioso&descAlignY=58&descSize=20" />
 </p>
-
 <!-- ===================== DIGITANDO ===================== -->
 <p align="center">
   <a href="https://github.com/VBSSWN">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aprendedor+das+cosias;Amo+minha+namorada;tec+tec+tec+tec;Se+rodou%2C+n%C3%A3o+mexe;Dev+s%C3%A9rio+aqui" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VBSSWN&color=00d9ff&style=for-the-badge&label=VÍTIMAS+QUE+PASSARAM+AQUI" />
 </p>
 
 ---
