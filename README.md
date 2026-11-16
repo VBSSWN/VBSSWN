@@ -96,8 +96,7 @@ class Vinicius:
 
   <a href="https://instagram.com/vini_bassan"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d9ff" /></a>
   <a href="https://youtube.com/@V1N1SB"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00d9ff" /></a>
-  <a href="https://discord.com/users/v1n1sb"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00d9ff" /></a>
-  <a href="mailto:mainxerife@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff" /></a>
+  <a href="https://discord.com/users/482293677876838421"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00d9ff" /></a>
 
 </p>
 
