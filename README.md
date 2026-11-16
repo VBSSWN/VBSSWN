@@ -36,10 +36,9 @@ class Vinicius:
 
 - 🏗️ Faço **Engenharia Civil**, mas minha faculdade não sabe
 - 🐍 Python pra back-end, automação, dados, IA e o que mais aparecer
-- 🤖 Aprendi um tiquinho de **IA/ML** na facul
-- 🎮 Ainda vou colocar **IA em jogo**, anota aí
+- 🤖 Aprendi um tiquinhozinho de **IA/ML** na facul
+- 🎮 Ainda vou fazer uns jogo muito brabo
 - 📄 Experiência profissional: `carregando... ████░░░░░░ 40%`
-- ⚡ Fun fact: se compilar de primeira, eu desconfio
 
 ---
 
