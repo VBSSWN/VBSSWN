@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0047ab,100:00d9ff&height=220&section=header&text=Vin%C3%ADcius&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dev%200%25%20s%C3%A9rio%20%E2%80%A2%20100%25%20curioso&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0047ab,100:00d9ff&height=220&section=header&text=V1N1&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dev%200%25%20s%C3%A9rio%20%E2%80%A2%20100%25%20curioso&descAlignY=58&descSize=20" />
 </p>
 
 <!-- ===================== DIGITANDO ===================== -->
