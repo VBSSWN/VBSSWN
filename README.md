@@ -6,7 +6,7 @@
 <!-- ===================== DIGITANDO ===================== -->
 <p align="center">
   <a href="https://github.com/VBSSWN">
-    <imgsrc="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aprendedor+das+cosias;Amo+minh+namorada;tec+tec+tec+tec;Se+rodou%2C+n%C3%A3o+mexe;Dev+0%25+s%C3%A9rio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Aprendedor+das+cosias;Amo+minh+namorada;tec+tec+tec+tec;Se+rodou%2C+n%C3%A3o+mexe;Dev+0%25+s%C3%A9rio" />
   </a>
 </p>
 
