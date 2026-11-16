@@ -103,14 +103,12 @@ class Vinicius:
 
 <!-- Descomenta (tira o <!-- e o -->) e troca os links quando recriar as contas -->
 <p align="center">
-<!--
-  <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" /></a>
-  <a href="https://instagram.com/SEU_USER"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d9ff" /></a>
-  <a href="https://youtube.com/@SEU_USER"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00d9ff" /></a>
-  <a href="https://discord.com/users/SEU_ID"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00d9ff" /></a>
-  <a href="mailto:SEU_EMAIL"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff" /></a>
--->
-  <i>Redes em reconstrução 🚧 (o hacker levou tudo, mas não levou minha vontade)</i>
+
+  <a href="https://instagram.com/vini_bassan"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d9ff" /></a>
+  <a href="https://youtube.com/@V1N1SB"><img src="https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=00d9ff" /></a>
+  <a href="https://discord.com/users/v1n1sb"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00d9ff" /></a>
+  <a href="mailto:mainxerife@gmail.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=00d9ff" /></a>
+
 </p>
 
 <!-- ===================== RODAPÉ ===================== -->
