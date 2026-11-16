@@ -59,11 +59,6 @@ class Vinicius:
 ## 📊 Estatísticas (não reparem, conta nova)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=VBSSWN&..." />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VBSSWN&..." />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=VBSSWN&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" />
 </p>
 
