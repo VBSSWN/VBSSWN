@@ -23,11 +23,10 @@ class Vinicius:
     def __init__(self):
         self.curso      = "Engenharia Civil 🏗️"
         self.hobby      = "Programar escondido da faculdade 🐍"
-        self.foco       = "Back-end com Python"
-        self.aprendendo = ["IA", "Machine Learning", "APIs", "como sair do tutorial hell"]
-        self.sonho      = "Botar IA em jogo 🎮"
+        self.foco       = "Ganhar mil gazilhões de reais"
+        self.aprendendo = ["IA", "Machine Learning", "APIs", "Ser uma pessoa melhor"]
+        self.sonho      = "Fazer uns jogos muito fodas 🎮"
         self.projetos   = 0  # mas a vontade é gigante
-        self.seriedade  = 0  # %
 
     def status(self):
         if self.codigo_rodou():
@@ -35,9 +34,9 @@ class Vinicius:
         return "Stack Overflow, me salva"
 ```
 
-- 🏗️ Faço **Engenharia Civil**, mas meu coração é **back-end**
-- 🐍 Estudando **Python** pra back-end em paralelo (a faculdade não precisa saber)
-- 🤖 Aprendi um tiquinho de **IA/ML** na facul, mas tô longe de parar
+- 🏗️ Faço **Engenharia Civil**, mas minha faculdade não sabe
+- 🐍 Python pra back-end, automação, dados, IA e o que mais aparecer
+- 🤖 Aprendi um tiquinho de **IA/ML** na facul
 - 🎮 Ainda vou colocar **IA em jogo**, anota aí
 - 📄 Experiência profissional: `carregando... ████░░░░░░ 40%`
 - ⚡ Fun fact: se compilar de primeira, eu desconfio
@@ -80,14 +79,6 @@ class Vinicius:
 
 ---
 
-## 🏆 Troféus (os que deu pra ganhar)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VBSSWN&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
----
-
 ## 🐍 A cobrinha comendo meus commits
 
 <p align="center">
@@ -101,7 +92,7 @@ class Vinicius:
 
 ## 📡 Me acha por aí
 
-<!-- Descomenta (tira o <!-- e o -->) e troca os links quando recriar as contas -->
+
 <p align="center">
 
   <a href="https://instagram.com/vini_bassan"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=00d9ff" /></a>
